@@ -1,9 +1,9 @@
 <?php
 
 
-require '/Users/thyphen/Desktop/php-poo-heracles-labour-2/src/Shield.php';
-require '../src/Fighter.php';
-require '/Users/thyphen/Desktop/php-poo-heracles-labour-2/src/Weapon.php';
+require '/Users/thyphen/Desktop/WILD CODE SCHOOL PHP/PHP/PHP POO HERACLES 2/src/Shield.php';
+require '/Users/thyphen/Desktop/WILD CODE SCHOOL PHP/PHP/PHP POO HERACLES 2/src/Fighter.php';
+require '/Users/thyphen/Desktop/WILD CODE SCHOOL PHP/PHP/PHP POO HERACLES 2/src/Weapon.php';
 /** ✅ DEBUT DE LA ZONE À MODIFIER ✅ **/
 
 $heracles = new Fighter('Heracles', 20, 6, 'heracles.svg');
